@@ -1,16 +1,15 @@
-# firebase_login_register
+# Simple Firebase Login Register App
 
-A new Flutter project.
+Firebase Login and Register 
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/70c3e625-35e2-4feb-a9ab-6ffe09ad8ba9)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/1ea207f6-6404-4cf7-accb-dbadf74d2786)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/4d097925-fca9-4585-8236-028bc605fe18)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![4](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/25f027b9-fac0-4356-82d6-e64f7a90c2b5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/cf1492bc-cbf2-467d-be4a-34292ea11e61)
+
+![6](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/678724c5-3774-49f3-9bee-8247a4719bb9)
