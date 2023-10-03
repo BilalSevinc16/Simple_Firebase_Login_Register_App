@@ -10,6 +10,4 @@ Firebase Login and Register
 
 ![4](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/25f027b9-fac0-4356-82d6-e64f7a90c2b5)
 
-![5](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/cf1492bc-cbf2-467d-be4a-34292ea11e61)
-
 ![6](https://github.com/BilalSevinc16/Simple_Firebase_Login_Register_App/assets/146417248/678724c5-3774-49f3-9bee-8247a4719bb9)
